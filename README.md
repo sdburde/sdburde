@@ -1,8 +1,7 @@
 # 👨‍💻 Saurabh Burde - AI Engineer
 AI Engineer with 5+ years of experience in AI and ML, specializing in real-time computer vision applications. Adept at managing projects from concept to deployment with a strong focus on object detection, recognition, pose estimation, and segmentation.
 
-### 🛠️ Languages and Tools
-
+#### 🛠️ Languages and Tools
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
@@ -47,10 +46,10 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)
 ![Crew AI](https://img.shields.io/badge/-Crew_AI-black?style=flat-square&logo=crewai)
 
-## 📊 GitHub Stats and Top Languages
+#### 📊 GitHub Stats and Top Languages
 ![S.D. Burde's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdburde&show_icons=true&theme=radical)
 
-## 📞 Contact
+#### 📞 Contact
 📍 **Location:** Mahal, Nagpur, India - 440032  
 📞 **Phone:** +91-9503445008  
 📧 **Email:** sdbburde@gmail.com
