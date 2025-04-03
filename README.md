@@ -6,9 +6,6 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MatLab](https://img.shields.io/badge/-MatLab-black?style=flat-square&logo=mathworks)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
@@ -16,6 +13,8 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Postgres SQL](https://img.shields.io/badge/-Postgres_SQL-black?style=flat-square&logo=postgresql)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorRT](https://img.shields.io/badge/-TensorRT-black?style=flat-square&logo=tensorflow)
