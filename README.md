@@ -3,16 +3,14 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 
 ### 🛠️ Languages and Tools
 
-**Operating Systems**
+
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-**Data Analysis**
+
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-**Databases**
-![Postgres SQL](https://img.shields.io/badge/-Postgres_SQL-black?style=flat-square&logo=postgresql)
 
-**Programming Languages**
+![Postgres SQL](https://img.shields.io/badge/-Postgres_SQL-black?style=flat-square&logo=postgresql)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MatLab](https://img.shields.io/badge/-MatLab-black?style=flat-square&logo=mathworks)
@@ -20,8 +18,6 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
-**Libraries**
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorRT](https://img.shields.io/badge/-TensorRT-black?style=flat-square&logo=tensorflow)
@@ -35,15 +31,11 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![PIL](https://img.shields.io/badge/-PIL-black?style=flat-square&logo=python)
 
-**APIs**
-
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Tornado](https://img.shields.io/badge/-Tornado-black?style=flat-square&logo=tornado)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-
-**Deployment**
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
@@ -52,17 +44,11 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
 
-**Computer Vision**
-
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
 ![MMDet](https://img.shields.io/badge/-MMDet-black?style=flat-square&logo=mmdetection)
 
-**LLM**
-
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-black?style=flat-square&logo=huggingface)
 ![LLM APIs](https://img.shields.io/badge/-LLM_APIs-black?style=flat-square&logo=apis)
-
-**Frameworks**
 
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)
