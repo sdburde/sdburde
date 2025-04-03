@@ -1,31 +1,24 @@
 # 👨‍💻 Saurabh Burde - AI Engineer
 AI Engineer with 5+ years of experience in AI and ML, specializing in real-time computer vision applications. Adept at managing projects from concept to deployment with a strong focus on object detection, recognition, pose estimation, and segmentation.
 
-## 📂 Projects
-
-### Featured Projects
-- **[AI-Agent-Chatbot](https://github.com/sdburde/AI-Agent-Chatbot):** A responsive web-based chat application that interacts with an AI model to generate text responses formatted in Markdown.
-- **[AI-LLM-Chatbot](https://github.com/sdburde/AI-LLM-Chatbot):** A web-based chat application with real-time Markdown rendering and code syntax highlighting.
-- **[depth-estimation-visualization](https://github.com/sdburde/depth-estimation-visualization):** A Jupyter notebook for depth estimation and visualization using the Intel/dpt-large model.
-- **[agentic-ai-learning](https://github.com/sdburde/agentic-ai-learning):** Learning resource for agentic AI using LangChain, LangGraph, Pydantic, and RAG systems.
-- **[Vehicle-Orientation-Classification](https://github.com/sdburde/Vehicle-Orientation-Classification):** Classifying vehicle orientations using a YOLO-based model.
-- **[action_classifier](https://github.com/sdburde/action_classifier):** YOLOv11 action classifier.
-
 ## 🛠️ Languages and Tools
 
-*Operating Systems*
+**Operating Systems**
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
-*Data Analysis*
+**Data Analysis**
+
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
-*Databases*
+**Databases**
+
 ![Postgres SQL](https://img.shields.io/badge/-Postgres_SQL-black?style=flat-square&logo=postgresql)
 
-*Programming Languages*
+**Programming Languages**
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MatLab](https://img.shields.io/badge/-MatLab-black?style=flat-square&logo=mathworks)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
@@ -33,7 +26,8 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-*Libraries*
+**Libraries**
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorRT](https://img.shields.io/badge/-TensorRT-black?style=flat-square&logo=tensorflow)
 ![DeepStream](https://img.shields.io/badge/-DeepStream-black?style=flat-square&logo=nvidia)
@@ -46,14 +40,16 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![PIL](https://img.shields.io/badge/-PIL-black?style=flat-square&logo=python)
 
-*APIs*
+**APIs**
+
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Tornado](https://img.shields.io/badge/-Tornado-black?style=flat-square&logo=tornado)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 
-*Deployment*
+**Deployment**
+
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
@@ -61,15 +57,18 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
 
-*Computer Vision*
+**Computer Vision**
+
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
 ![MMDet](https://img.shields.io/badge/-MMDet-black?style=flat-square&logo=mmdetection)
 
-*LLM*
+**LLM**
+
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-black?style=flat-square&logo=huggingface)
 ![LLM APIs](https://img.shields.io/badge/-LLM_APIs-black?style=flat-square&logo=apis)
 
-*Frameworks*
+**Frameworks**
+
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)
 ![Crew AI](https://img.shields.io/badge/-Crew_AI-black?style=flat-square&logo=crewai)
