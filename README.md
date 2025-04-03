@@ -46,13 +46,11 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)
 ![Crew AI](https://img.shields.io/badge/-Crew_AI-black?style=flat-square&logo=crewai)
 
-#### 📊 GitHub Stats and Top Languages
-![S.D. Burde's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdburde&show_icons=true&theme=radical)
 
 #### 📞 Contact
 📍 **Location:** Mahal, Nagpur, India - 440032  
 📞 **Phone:** +91-9503445008  
-📧 **Email:** sdbburde@gmail.com
+📧 **Email:** sdbburde@gmail.com 
 🔗 **LinkedIn:** [linkedin.com/in/saurabhburde](https://linkedin.com/in/saurabhburde)  
 💻 **GitHub:** [github.com/sdburde](https://github.com/sdburde)
 
