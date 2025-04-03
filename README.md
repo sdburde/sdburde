@@ -1,33 +1,38 @@
 # 👨‍💻 Saurabh Burde - AI Engineer
 AI Engineer with 5+ years of experience in AI and ML, specializing in real-time computer vision applications. Adept at managing projects from concept to deployment with a strong focus on object detection, recognition, pose estimation, and segmentation.
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 0 0 48%;">
 **Operating Systems**
-
+<br>
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-
+<br><br>
 **Data Analysis**
-
+<br>
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-
+<br><br>
 **Databases**
-
+<br>
 ![Postgres SQL](https://img.shields.io/badge/-Postgres_SQL-black?style=flat-square&logo=postgresql)
-
+<br><br>
 **Programming Languages**
-
+<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![MatLab](https://img.shields.io/badge/-MatLab-black?style=flat-square&logo=mathworks)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+</div>
 
+<div style="flex: 0 0 48%;">
 **Libraries**
-
+<br>
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorRT](https://img.shields.io/badge/-TensorRT-black?style=flat-square&logo=tensorflow)
 ![DeepStream](https://img.shields.io/badge/-DeepStream-black?style=flat-square&logo=nvidia)
@@ -39,39 +44,42 @@ AI Engineer with 5+ years of experience in AI and ML, specializing in real-time 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![PIL](https://img.shields.io/badge/-PIL-black?style=flat-square&logo=python)
-
+<br><br>
 **APIs**
-
+<br>
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Tornado](https://img.shields.io/badge/-Tornado-black?style=flat-square&logo=tornado)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-
+<br><br>
 **Deployment**
-
+<br>
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
-
+<br><br>
 **Computer Vision**
-
+<br>
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=yolo)
 ![MMDet](https://img.shields.io/badge/-MMDet-black?style=flat-square&logo=mmdetection)
-
+<br><br>
 **LLM**
-
+<br>
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-black?style=flat-square&logo=huggingface)
 ![LLM APIs](https://img.shields.io/badge/-LLM_APIs-black?style=flat-square&logo=apis)
-
+<br><br>
 **Frameworks**
-
+<br>
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)
 ![Crew AI](https://img.shields.io/badge/-Crew_AI-black?style=flat-square&logo=crewai)
+</div>
+
+</div>
 
 ## 📊 GitHub Stats and Top Languages
 
