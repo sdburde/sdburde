@@ -9,7 +9,6 @@ I'm a passionate AI engineer interested in open-source projects, AI, and web dev
 - 👯 I’m looking to collaborate on innovative AI projects.
 - 🤔 I’m looking for help with improving my DevOps skills.
 - 💬 Ask me about AI, web development, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:sdburde@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places!
 
