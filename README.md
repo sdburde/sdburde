@@ -1,6 +1,6 @@
 ## 👨‍💻 Saurabh Burde - AI Engineer
-AI Engineer with 5+ years of experience in AI and ML, specializing in real-time computer vision applications. Adept at managing projects from concept to deployment with a strong focus on object detection, recognition, pose estimation, and segmentation.
 
+I am an AI Engineer with over five years of experience, specializing in the development and deployment of real-time computer vision and machine learning solutions. My expertise lies in object detection, recognition, pose estimation, and segmentation, with a proven track record of managing projects from conception to production. I have worked extensively on agentic AI, generative AI, and advanced ML applications, delivering high-performance systems for diverse use cases.
 #### 🛠️ Languages and Tools
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
