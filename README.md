@@ -45,3 +45,4 @@ I am an AI Engineer with over five years of experience, specializing in the deve
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)
 ![Crew AI](https://img.shields.io/badge/-Crew_AI-black?style=flat-square&logo=crewai)
+![Agno](https://img.shields.io/badge/-Agno-black?style=flat-square&logo=agno)
